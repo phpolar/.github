@@ -2,11 +2,11 @@
 
 >  A Minimal PHP Framework
 
-[🏁 Quick Start](https://docs.phpolar.org/#quick-start)
+[Quick Start](https://docs.phpolar.org/#quick-start)
 <br>
-[💡 Design Goals](https://docs.phpolar.org/#objectives)
+[Design Goals](https://docs.phpolar.org/#objectives)
 <br>
-[📖 Documentation](https://docs.phpolar.org/)
+[Documentation](https://docs.phpolar.org/)
 
 ## PHPolar 🖤 PHP
 
