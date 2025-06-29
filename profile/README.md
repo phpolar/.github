@@ -1,6 +1,6 @@
 # PHPolar 
 
->  A Minimal PHP Framework
+>  A PHP framework for minimalists
 
 [Quick Start](https://docs.phpolar.org/#quick-start)
 <br>
